@@ -18,3 +18,6 @@ Assignment scope :
 developing a suitable technology oriented digital solution.
 2. Identify various technologies, tools and systems available in the market to support these
 needs.
+
+
+<img width="835" alt="Screenshot 2023-04-11 at 3 53 49 AM" src="https://user-images.githubusercontent.com/98409295/231014984-bff965ee-d73e-49ec-86aa-d92adbb022c2.png">
